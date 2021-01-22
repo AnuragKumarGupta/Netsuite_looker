@@ -1,1 +1,2 @@
-# Netsuite_looker
+# looker-blocks
+Our Looker project 'blocks'
